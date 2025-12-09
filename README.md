@@ -4,13 +4,13 @@ Trabalho desenvolvido para a faculdade com o objetivo de criar um sistema web pa
 
 O projeto foi feito inteiramente em **PHP Procedural** (sem uso de frameworks), focando na lógica de programação, segurança com Prepared Statements e organização de banco de dados.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 * PHP (Puro/Procedural)
 * MySQL (Banco de Dados)
 * HTML/CSS (Front-end básico)
 * XAMPP (Servidor Local)
 
-## 📋 Funcionalidades
+##  Funcionalidades
 O sistema possui dois níveis de acesso:
 
 1.  **Administrador:**
@@ -23,7 +23,7 @@ O sistema possui dois níveis de acesso:
     * Relatório "Mapa Geral" para visualizar onde está cada item.
     * Sistema de login com hash de senhas.
 
-## 🚀 Como rodar o projeto
+##  Como rodar o projeto
 
 1.  Tenha o **XAMPP** instalado.
 2.  Coloque a pasta do projeto dentro de `C:\xampp\htdocs`.
@@ -32,7 +32,7 @@ O sistema possui dois níveis de acesso:
 5.  Clique no banco criado, vá na aba **SQL** e cole o conteúdo do arquivo de script do banco (que está no projeto) para criar as tabelas.
 6.  Acesse no navegador: `http://localhost/ProjetoPatrimonio` (ou o nome da sua pasta).
 
-## 🔑 Acesso (Logins de Teste)
+##  Acesso (Logins de Teste)
 
 Para testar o sistema, use os usuários já cadastrados:
 
@@ -44,8 +44,9 @@ Para testar o sistema, use os usuários já cadastrados:
     * Usuário: `operador`
     * Senha: `operador`
 
-Desenvolvido por: 
-Gabriel Braga
-Gabriel Augusto
-Fernando Benati
-Vitor Matos
+## Desenvolvedores
+
+* Gabriel Braga
+* Gabriel Augusto
+* Fernando Benati
+* Vitor Matos
