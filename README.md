@@ -43,3 +43,9 @@ Para testar o sistema, use os usuários já cadastrados:
 * **Operador:**
     * Usuário: `operador`
     * Senha: `operador`
+
+Desenvolvido por: 
+Gabriel Braga
+Gabriel Augusto
+Fernando Benati
+Vitor Matos
